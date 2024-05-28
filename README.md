@@ -1,16 +1,18 @@
-## Hi there 👋
+## Ana Laura Santos De Lima
 
-<!--
-**analaura0701/analaura0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<
+Aluna Do Terceiro Ano Estudante De Tecnologia
 
-Here are some ideas to get you started:
+### Boas vindas ao meu perfil :analaura0701
+Meu nome é Ana Laura
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :lauraana
+
+lauraana4253@gmail.com
+
+@ana_1aura
+
+![descrição do GIF](https://images.ctfassets.net/l3l0sjr15nav/4o6Nicy6NGYBbNXn2L2SUZ/117e2181d436fdd7a6afa5e1a29860fa/gifs_sao_legais.gif)
